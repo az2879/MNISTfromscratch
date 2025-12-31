@@ -1,4 +1,4 @@
-# Implementing a CNN From Scratch 
+# Implementing a Neural Network From Scratch 
 
 ### Based off of this video: https://www.youtube.com/watch?v=w8yWXqWQYmU
 
